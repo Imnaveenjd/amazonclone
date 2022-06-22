@@ -1,3 +1,8 @@
+## Deployed App Link
+
+<a href="https://clone-9d520.web.app/">Amazon Clone</a>
+
+
 # Getting Started with Create React App
 
 This project was bootstrapped with [Create React App](https://github.com/facebook/create-react-app).
