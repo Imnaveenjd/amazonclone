@@ -1,0 +1,33 @@
+.checkout{
+    display: flex;
+    padding: 20px;
+    background-color: white;
+    height: max-content;
+
+}
+
+
+.checkout__ad{
+    width: 100%;
+    margin-bottom: 10px;
+}
+.checkout__title{
+    font-weight: 500;
+    margin-right: 6px;
+    padding: 10px;
+    border-bottom: 1px solid lightgray;
+    
+    
+}
+.checkout>h4{
+    font-weight: bold;
+    font-style: initial;
+    margin-right: 5px;
+    
+}
+
+.checkout__heading{
+    font-weight: 600;
+    font-style: initial;
+    font-family:sans-serif;
+}
