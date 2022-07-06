@@ -1,7 +1,12 @@
 ## Deployed App Link
 
 <a href="https://clone-9d520.web.app/">Amazon Clone</a>
-
+I  created this front end of Amazon with working login, and payment using stripe. 
+The technology used in this projects are : 
+React js, Context api, router dom 
+Material Icons/Ui
+Firebase (deployment,cloud functions) 
+Stripe (payment) @stripe/stripe-js, @stripe/react-stripe-js
 
 # Getting Started with Create React App
 
